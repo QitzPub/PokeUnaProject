@@ -1,0 +1,87 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/user/Desktop/ポケモンユナイト風適当/PokeUnaProject/PokeUnaProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59177
+Successfully changed project path to: /Users/user/Desktop/ポケモンユナイト風適当/PokeUnaProject/PokeUnaProject
+/Users/user/Desktop/ポケモンユナイト風適当/PokeUnaProject/PokeUnaProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/user/Desktop/ポケモンユナイト風適当/PokeUnaProject/PokeUnaProject/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-24 16:31:09.035 Unity[3492:124719] Color LCD preferred device: Intel(R) Iris(TM) Graphics 540 (low power)
+2021-07-24 16:31:09.035 Unity[3492:124719] Metal devices available: 1
+2021-07-24 16:31:09.035 Unity[3492:124719] 0: Intel(R) Iris(TM) Graphics 540 (low power)
+2021-07-24 16:31:09.036 Unity[3492:124719] Using device Intel(R) Iris(TM) Graphics 540 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 540
+Initialize mono
+Mono path[0] = '/Applications/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56492
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002956 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 27.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.214 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001473 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.240 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.2 MB.
+System memory in use after: 109.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1533.
+Total: 2.765705 ms (FindLiveObjects: 0.304235 ms CreateObjectMapping: 0.110375 ms MarkObjects: 2.253803 ms  DeleteObjects: 0.095279 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/hirata
+  artifactKey: Guid(b17ea7582249a49b89cbaea9286abf88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/hirata using Guid(b17ea7582249a49b89cbaea9286abf88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d09837d0fbbfcbdea5eb1eb988507f1') in 0.005901 seconds
+  Import took 0.009930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.591083 seconds.
+  path: Assets/aguro
+  artifactKey: Guid(398f52d55003946b480d17f7ec6ab80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/aguro using Guid(398f52d55003946b480d17f7ec6ab80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5164fdc055a96236b20e4045b8f30f7c') in 0.002212 seconds
+  Import took 0.004828 seconds .
+
